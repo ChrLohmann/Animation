@@ -1,10 +1,18 @@
 name: animation-env
 channels:
-  - conda-forge
   - defaults
 dependencies:
-  - ipympl
   - matplotlib
-  - numpy
+  - nodejs
   - scipy
+  - ipywidgets
+  - numpy
+  - xlrd
+  - pip
+  - scikit-learn
+  - scikit-image
+  - jupyterlab
+  - pandas
+  - ipympl
   - voila
+prefix: C:\Users\Christian\Miniconda3\envs\animation-env
