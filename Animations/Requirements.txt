@@ -1,4 +1,0 @@
-ipympl
-numpy
-matplotlib
-voila
