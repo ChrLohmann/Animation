@@ -1,0 +1,4 @@
+ipympl
+numpy
+matplotlib
+voila
