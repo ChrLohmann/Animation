@@ -1,4 +1,3 @@
-name: animation-env
 channels:
   - defaults
 dependencies:
@@ -15,4 +14,3 @@ dependencies:
   - pandas
   - ipympl
   - voila
-prefix: C:\Users\Christian\Miniconda3\envs\animation-env
