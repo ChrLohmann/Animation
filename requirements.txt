@@ -1,6 +1,3 @@
-channels:
-  - defaults
-dependencies:
   - matplotlib
   - nodejs
   - scipy
